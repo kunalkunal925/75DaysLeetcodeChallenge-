@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -117,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0150-evaluate-reverse-polish-notation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
