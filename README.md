@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0460-lfu-cache](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0460-lfu-cache) |
 ## Queue
 |  |
 | ------- |
@@ -141,8 +143,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
