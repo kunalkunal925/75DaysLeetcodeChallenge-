@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0496-next-greater-element-i) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2485-find-the-pivot-integer](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/2485-find-the-pivot-integer) |
 ## Monotonic Stack
 |  |
