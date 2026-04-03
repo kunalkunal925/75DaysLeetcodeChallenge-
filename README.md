@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0739-daily-temperatures) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0347-top-k-frequent-elements) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## String
 |  |
 | ------- |
