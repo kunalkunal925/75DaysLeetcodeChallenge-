@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0021-merge-two-sorted-lists) |
 | [0146-lru-cache](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0074-search-a-2d-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
