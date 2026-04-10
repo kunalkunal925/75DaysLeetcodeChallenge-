@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0994-rotting-oranges) |
 | [1032-stream-of-characters](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1032-stream-of-characters) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0739-daily-temperatures) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Design
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0739-daily-temperatures) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Database
 |  |
 | ------- |
