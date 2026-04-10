@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0739-daily-temperatures) |
+| [1032-stream-of-characters](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1032-stream-of-characters) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0424-longest-repeating-character-replacement) |
+| [1032-stream-of-characters](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1032-stream-of-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0232-implement-queue-using-stacks) |
 | [0460-lfu-cache](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0460-lfu-cache) |
+| [1032-stream-of-characters](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1032-stream-of-characters) |
 ## Queue
 |  |
 | ------- |
@@ -179,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0021-merge-two-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [1032-stream-of-characters](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1032-stream-of-characters) |
+## Data Stream
+|  |
+| ------- |
+| [1032-stream-of-characters](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1032-stream-of-characters) |
 <!---LeetCode Topics End-->
