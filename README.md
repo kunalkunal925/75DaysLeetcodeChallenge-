@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0739-daily-temperatures) |
+| [0994-rotting-oranges](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0994-rotting-oranges) |
 | [1032-stream-of-characters](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1032-stream-of-characters) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0994-rotting-oranges) |
 ## Recursion
 |  |
 | ------- |
@@ -230,4 +232,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
