@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0347-top-k-frequent-elements) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0424-longest-repeating-character-replacement](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0460-lfu-cache) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0704-binary-search](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0704-binary-search) |
 ## Greedy
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0232-implement-queue-using-stacks) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0460-lfu-cache](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0460-lfu-cache) |
 | [1032-stream-of-characters](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1032-stream-of-characters) |
 ## Queue
@@ -189,5 +192,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1032-stream-of-characters](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1032-stream-of-characters) |
+## Union-Find
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Ordered Set
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
