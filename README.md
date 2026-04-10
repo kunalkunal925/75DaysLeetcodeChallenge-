@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0283-move-zeroes) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0200-number-of-islands) |
 ## Recursion
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Ordered Set
 |  |
@@ -219,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
