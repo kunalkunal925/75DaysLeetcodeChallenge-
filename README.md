@@ -77,10 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0432-all-oone-data-structure) |
@@ -257,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0207-course-schedule) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
