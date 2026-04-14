@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0143-reorder-list) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Sliding Window
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0155-min-stack) |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0739-daily-temperatures) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1944-number-of-visible-people-in-a-queue) |
