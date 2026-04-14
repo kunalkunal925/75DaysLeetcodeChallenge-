@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Sliding Window
 |  |
 | ------- |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0226-invert-binary-tree) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0226-invert-binary-tree) |
 | [0994-rotting-oranges](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0994-rotting-oranges) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Backtracking
 |  |
 | ------- |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0207-course-schedule) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Topological Sort
 |  |
 | ------- |
