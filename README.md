@@ -269,11 +269,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0226-invert-binary-tree) |
 | [0994-rotting-oranges](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0994-rotting-oranges) |
 ## Backtracking
 |  |
@@ -295,4 +297,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
