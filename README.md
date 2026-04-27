@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0136-single-number) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Tree
 |  |
