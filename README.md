@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0876-middle-of-the-linked-list) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0206-reverse-linked-list) |
 ## Trie
 |  |
 | ------- |
