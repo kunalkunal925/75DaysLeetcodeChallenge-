@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0904-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Sorting
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0567-permutation-in-string) |
 | [1032-stream-of-characters](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1032-stream-of-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Divide and Conquer
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1004-max-consecutive-ones-iii) |
