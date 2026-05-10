@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-stream-of-characters](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1032-stream-of-characters) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Sliding Window
 |  |
