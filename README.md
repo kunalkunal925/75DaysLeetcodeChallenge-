@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0994-rotting-oranges) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0278-first-bad-version) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0704-binary-search](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
