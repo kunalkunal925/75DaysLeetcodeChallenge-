@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1004-max-consecutive-ones-iii) |
 | [1032-stream-of-characters](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1032-stream-of-characters) |
 | [1046-last-stone-weight](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1046-last-stone-weight) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0904-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0997-find-the-town-judge) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Sorting
 |  |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0207-course-schedule) |
+| [0997-find-the-town-judge](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0997-find-the-town-judge) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Topological Sort
 |  |
