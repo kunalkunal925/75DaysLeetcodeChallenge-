@@ -1,34 +1,33 @@
-class Solution:
-    def canFinish(self, numCourses: int, prerequisites: list[list[int]]) -> bool:
-        # Adjacency list banayein
-        preMap = {i: [] for i in range(numCourses)}
+class Solution(object):
+    def canFinish(self, numCourses, prerequisites):
+        """
+        :type numCourses: int
+        :type prerequisites: List[List[int]]
+        :rtype: bool
+        """
+        pre_map = {i: [] for i in range(numCourses)}
         for crs, pre in prerequisites:
-            preMap[crs].append(pre)
+            pre_map[crs].append(pre)
             
-        # visitSet current recursive path ke courses track karta hai
-        visitSet = set()
+        visit_set = set()
         
         def dfs(crs):
-            # Agar course visitSet mein hai, matlab cycle mil gayi
-            if crs in visitSet:
+            if crs in visit_set:
                 return False
-            # Agar course ke koi prerequisites nahi hain, toh ye pass hai
-            if preMap[crs] == []:
+            if pre_map[crs] == []:
                 return True
-            
-            visitSet.add(crs)
-            for pre in preMap[crs]:
+                
+            visit_set.add(crs)
+            for pre in pre_map[crs]:
                 if not dfs(pre):
                     return False
+            visit_set.remove(crs)
             
-            # Backtracking: path se hata dein aur preMap clean karein efficiency ke liye
-            visitSet.remove(crs)
-            preMap[crs] = []
+            pre_map[crs] = []
             return True
-        
-        # Har course ke liye DFS chalayein (kyunki graph disconnected ho sakta hai)
+            
         for crs in range(numCourses):
             if not dfs(crs):
                 return False
-        
+                
         return True
