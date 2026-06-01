@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -483,4 +485,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0278-first-bad-version) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
