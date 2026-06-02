@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0977-squares-of-a-sorted-array) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0746-min-cost-climbing-stairs](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0746-min-cost-climbing-stairs) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
