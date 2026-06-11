@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0191-number-of-1-bits) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Tree
 |  |
