@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1046-last-stone-weight) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Hash Table
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## String
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/1015-smallest-integer-divisible-by-k) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2485-find-the-pivot-integer](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/2485-find-the-pivot-integer) |
 ## Monotonic Stack
 |  |
@@ -532,4 +535,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/0067-add-binary) |
+## Geometry
+|  |
+| ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+## Number Theory
+|  |
+| ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/kunalkunal925/75DaysLeetcodeChallenge-/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 <!---LeetCode Topics End-->
